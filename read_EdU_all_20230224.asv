@@ -1,0 +1,53 @@
+clear; close all; clc
+pat ='C:\Users\ceskilds\OneDrive - Imperial College London\Documents\mydoc20220808\projects\MSc\Chris';
+% cd([pat,'\data\EDU_all_20230224\EDU_all']);
+cd('C:\Users\ceskilds\OneDrive - Imperial College London\Documents\mydoc20220808\projects\MSc\Chris\data\EDU_230213\EDU_230213');
+
+col = [0, 0.4470, 0.7410;...
+    0.8500, 0.3250, 0.0980;...
+    0.9290, 0.6940, 0.1250;...
+    0.4940, 0.1840, 0.5560;...
+    0.4660, 0.6740, 0.1880;...
+    0.3010, 0.7450, 0.9330;...
+    0.6350, 0.0780, 0.1840;...
+    0, 0, 1;...
+    0, 0.5, 0;...
+    1, 0,0];
+
+exwl = 785;
+
+fdir = dir('*.csv');
+
+J = 2000;
+I = size(fdir,1);
+X = nan(I,J);
+ID = cell(I,1);
+IDstr = strings(I,1);
+
+for i = 1:I
+    A = readmatrix(fdir(i).name); 
+    X(i,:) = A(2:end,2)';
+%     ID{i} = cellstr(fdir(i).name);
+    ID{i} = fdir(i).name;
+    IDstr(i) = ID{i}(1:5);
+end
+
+cd([pat,'\data']);
+A = readmatrix('EAGLE_PixeltoLambdatoCM_1.csv');
+wn = A(:,3);
+wn = flipud(wn);
+
+uID = unique(IDstr,'rows');
+
+axes; hold on; grid on; box on;
+for i = 1:size(uID,1)
+    idx = strcmp(IDstr,uID(i));
+    h = plot(wn,X(idx,:),'color',col(i,:));
+    legendGR(h);
+end
+not_so_tight('Y');
+set(gca,'XDir','reverse');
+
+% txt_leg = {'DMSO','EdU 2yne','EdU 3yne','EdU cyano','EdU DMSO'};
+% legend(txt_leg);
+

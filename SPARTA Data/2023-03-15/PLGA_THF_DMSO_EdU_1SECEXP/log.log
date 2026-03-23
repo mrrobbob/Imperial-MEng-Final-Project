@@ -1,0 +1,1153 @@
+2023/03/15 14:00:25 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:00:27 [INFO]: Trapping successful at iteration num: 1
+2023/03/15 14:00:27 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:00:29 [INFO]: Adding spectrum...
+2023/03/15 14:00:29 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:00:29 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:00:29 [INFO]: Plots updated with new data.
+2023/03/15 14:00:29 [INFO]: Spectrum saved!
+2023/03/15 14:00:29 [INFO]: Data added!
+2023/03/15 14:00:29 [INFO]: Total acquisitions = 1/1000.0
+2023/03/15 14:00:29 [INFO]: Successful acquisitions = 1
+2023/03/15 14:00:29 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:00:45 [INFO]: No data found.
+2023/03/15 14:00:45 [INFO]: Total acquisitions = 2/1000.0
+2023/03/15 14:00:45 [INFO]: Successful acquisitions = 1
+2023/03/15 14:00:45 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:00:59 [INFO]: Trapping successful at iteration num: 10
+2023/03/15 14:00:59 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:01:01 [INFO]: Adding spectrum...
+2023/03/15 14:01:01 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:01:01 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:01:01 [INFO]: Plots updated with new data.
+2023/03/15 14:01:01 [INFO]: Spectrum saved!
+2023/03/15 14:01:01 [INFO]: Data added!
+2023/03/15 14:01:01 [INFO]: Total acquisitions = 3/1000.0
+2023/03/15 14:01:01 [INFO]: Successful acquisitions = 2
+2023/03/15 14:01:01 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:01:16 [INFO]: No data found.
+2023/03/15 14:01:16 [INFO]: Total acquisitions = 4/1000.0
+2023/03/15 14:01:16 [INFO]: Successful acquisitions = 2
+2023/03/15 14:01:16 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:01:32 [INFO]: No data found.
+2023/03/15 14:01:32 [INFO]: Total acquisitions = 5/1000.0
+2023/03/15 14:01:32 [INFO]: Successful acquisitions = 2
+2023/03/15 14:01:32 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:01:47 [INFO]: No data found.
+2023/03/15 14:01:47 [INFO]: Total acquisitions = 6/1000.0
+2023/03/15 14:01:47 [INFO]: Successful acquisitions = 2
+2023/03/15 14:01:47 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:02:03 [INFO]: No data found.
+2023/03/15 14:02:03 [INFO]: Total acquisitions = 7/1000.0
+2023/03/15 14:02:03 [INFO]: Successful acquisitions = 2
+2023/03/15 14:02:03 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:02:14 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:02:14 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:02:16 [INFO]: Adding spectrum...
+2023/03/15 14:02:16 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:02:16 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:02:16 [INFO]: Plots updated with new data.
+2023/03/15 14:02:16 [INFO]: Spectrum saved!
+2023/03/15 14:02:16 [INFO]: Data added!
+2023/03/15 14:02:16 [INFO]: Total acquisitions = 8/1000.0
+2023/03/15 14:02:16 [INFO]: Successful acquisitions = 3
+2023/03/15 14:02:16 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:02:32 [INFO]: No data found.
+2023/03/15 14:02:32 [INFO]: Total acquisitions = 9/1000.0
+2023/03/15 14:02:32 [INFO]: Successful acquisitions = 3
+2023/03/15 14:02:32 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:02:45 [INFO]: Trapping successful at iteration num: 9
+2023/03/15 14:02:45 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:02:47 [INFO]: Adding spectrum...
+2023/03/15 14:02:47 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:02:47 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:02:47 [INFO]: Plots updated with new data.
+2023/03/15 14:02:47 [INFO]: Spectrum saved!
+2023/03/15 14:02:47 [INFO]: Data added!
+2023/03/15 14:02:47 [INFO]: Total acquisitions = 10/1000.0
+2023/03/15 14:02:47 [INFO]: Successful acquisitions = 4
+2023/03/15 14:02:47 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:03:01 [INFO]: No data found.
+2023/03/15 14:03:01 [INFO]: Total acquisitions = 11/1000.0
+2023/03/15 14:03:01 [INFO]: Successful acquisitions = 4
+2023/03/15 14:03:01 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:03:14 [INFO]: Trapping successful at iteration num: 10
+2023/03/15 14:03:14 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:03:16 [INFO]: Adding spectrum...
+2023/03/15 14:03:16 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:03:16 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:03:16 [INFO]: Plots updated with new data.
+2023/03/15 14:03:16 [INFO]: Spectrum saved!
+2023/03/15 14:03:16 [INFO]: Data added!
+2023/03/15 14:03:16 [INFO]: Total acquisitions = 12/1000.0
+2023/03/15 14:03:16 [INFO]: Successful acquisitions = 5
+2023/03/15 14:03:16 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:03:30 [INFO]: No data found.
+2023/03/15 14:03:30 [INFO]: Total acquisitions = 13/1000.0
+2023/03/15 14:03:30 [INFO]: Successful acquisitions = 5
+2023/03/15 14:03:30 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:03:44 [INFO]: No data found.
+2023/03/15 14:03:44 [INFO]: Total acquisitions = 14/1000.0
+2023/03/15 14:03:44 [INFO]: Successful acquisitions = 5
+2023/03/15 14:03:45 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:03:59 [INFO]: No data found.
+2023/03/15 14:03:59 [INFO]: Total acquisitions = 15/1000.0
+2023/03/15 14:03:59 [INFO]: Successful acquisitions = 5
+2023/03/15 14:03:59 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:04:13 [INFO]: No data found.
+2023/03/15 14:04:13 [INFO]: Total acquisitions = 16/1000.0
+2023/03/15 14:04:13 [INFO]: Successful acquisitions = 5
+2023/03/15 14:04:13 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:04:18 [INFO]: Trapping successful at iteration num: 4
+2023/03/15 14:04:18 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:04:20 [INFO]: Adding spectrum...
+2023/03/15 14:04:20 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:04:20 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:04:20 [INFO]: Plots updated with new data.
+2023/03/15 14:04:20 [INFO]: Spectrum saved!
+2023/03/15 14:04:20 [INFO]: Data added!
+2023/03/15 14:04:20 [INFO]: Total acquisitions = 17/1000.0
+2023/03/15 14:04:20 [INFO]: Successful acquisitions = 6
+2023/03/15 14:04:20 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:04:34 [INFO]: No data found.
+2023/03/15 14:04:34 [INFO]: Total acquisitions = 18/1000.0
+2023/03/15 14:04:34 [INFO]: Successful acquisitions = 6
+2023/03/15 14:04:34 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:04:48 [INFO]: No data found.
+2023/03/15 14:04:48 [INFO]: Total acquisitions = 19/1000.0
+2023/03/15 14:04:48 [INFO]: Successful acquisitions = 6
+2023/03/15 14:04:48 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:05:02 [INFO]: No data found.
+2023/03/15 14:05:02 [INFO]: Total acquisitions = 20/1000.0
+2023/03/15 14:05:02 [INFO]: Successful acquisitions = 6
+2023/03/15 14:05:02 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:05:16 [INFO]: No data found.
+2023/03/15 14:05:16 [INFO]: Total acquisitions = 21/1000.0
+2023/03/15 14:05:16 [INFO]: Successful acquisitions = 6
+2023/03/15 14:05:16 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:05:30 [INFO]: No data found.
+2023/03/15 14:05:30 [INFO]: Total acquisitions = 22/1000.0
+2023/03/15 14:05:30 [INFO]: Successful acquisitions = 6
+2023/03/15 14:05:30 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:05:39 [INFO]: Trapping successful at iteration num: 7
+2023/03/15 14:05:39 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:05:42 [INFO]: Adding spectrum...
+2023/03/15 14:05:42 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:05:42 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:05:42 [INFO]: Plots updated with new data.
+2023/03/15 14:05:42 [INFO]: Spectrum saved!
+2023/03/15 14:05:42 [INFO]: Data added!
+2023/03/15 14:05:42 [INFO]: Total acquisitions = 23/1000.0
+2023/03/15 14:05:42 [INFO]: Successful acquisitions = 7
+2023/03/15 14:05:42 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:05:56 [INFO]: No data found.
+2023/03/15 14:05:56 [INFO]: Total acquisitions = 24/1000.0
+2023/03/15 14:05:56 [INFO]: Successful acquisitions = 7
+2023/03/15 14:05:56 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:06:02 [INFO]: Trapping successful at iteration num: 5
+2023/03/15 14:06:02 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:06:05 [INFO]: Adding spectrum...
+2023/03/15 14:06:05 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:06:05 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:06:05 [INFO]: Plots updated with new data.
+2023/03/15 14:06:05 [INFO]: Spectrum saved!
+2023/03/15 14:06:05 [INFO]: Data added!
+2023/03/15 14:06:05 [INFO]: Total acquisitions = 25/1000.0
+2023/03/15 14:06:05 [INFO]: Successful acquisitions = 8
+2023/03/15 14:06:05 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:06:19 [INFO]: No data found.
+2023/03/15 14:06:19 [INFO]: Total acquisitions = 26/1000.0
+2023/03/15 14:06:19 [INFO]: Successful acquisitions = 8
+2023/03/15 14:06:19 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:06:20 [INFO]: Trapping successful at iteration num: 1
+2023/03/15 14:06:20 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:06:22 [INFO]: Adding spectrum...
+2023/03/15 14:06:22 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:06:22 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:06:22 [INFO]: Plots updated with new data.
+2023/03/15 14:06:22 [INFO]: Spectrum saved!
+2023/03/15 14:06:22 [INFO]: Data added!
+2023/03/15 14:06:22 [INFO]: Total acquisitions = 27/1000.0
+2023/03/15 14:06:22 [INFO]: Successful acquisitions = 9
+2023/03/15 14:06:22 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:06:32 [INFO]: Trapping successful at iteration num: 7
+2023/03/15 14:06:32 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:06:34 [INFO]: Adding spectrum...
+2023/03/15 14:06:34 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:06:34 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:06:34 [INFO]: Plots updated with new data.
+2023/03/15 14:06:34 [INFO]: Spectrum saved!
+2023/03/15 14:06:34 [INFO]: Data added!
+2023/03/15 14:06:34 [INFO]: Total acquisitions = 28/1000.0
+2023/03/15 14:06:34 [INFO]: Successful acquisitions = 10
+2023/03/15 14:06:34 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:06:48 [INFO]: No data found.
+2023/03/15 14:06:48 [INFO]: Total acquisitions = 29/1000.0
+2023/03/15 14:06:48 [INFO]: Successful acquisitions = 10
+2023/03/15 14:06:48 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:06:58 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:06:58 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:07:01 [INFO]: Adding spectrum...
+2023/03/15 14:07:01 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:07:01 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:07:01 [INFO]: Plots updated with new data.
+2023/03/15 14:07:01 [INFO]: Spectrum saved!
+2023/03/15 14:07:01 [INFO]: Data added!
+2023/03/15 14:07:01 [INFO]: Total acquisitions = 30/1000.0
+2023/03/15 14:07:01 [INFO]: Successful acquisitions = 11
+2023/03/15 14:07:01 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:07:15 [INFO]: No data found.
+2023/03/15 14:07:15 [INFO]: Total acquisitions = 31/1000.0
+2023/03/15 14:07:15 [INFO]: Successful acquisitions = 11
+2023/03/15 14:07:15 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:07:29 [INFO]: No data found.
+2023/03/15 14:07:29 [INFO]: Total acquisitions = 32/1000.0
+2023/03/15 14:07:29 [INFO]: Successful acquisitions = 11
+2023/03/15 14:07:29 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:07:39 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:07:39 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:07:42 [INFO]: Adding spectrum...
+2023/03/15 14:07:42 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:07:42 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:07:42 [INFO]: Plots updated with new data.
+2023/03/15 14:07:42 [INFO]: Spectrum saved!
+2023/03/15 14:07:42 [INFO]: Data added!
+2023/03/15 14:07:42 [INFO]: Total acquisitions = 33/1000.0
+2023/03/15 14:07:42 [INFO]: Successful acquisitions = 12
+2023/03/15 14:07:42 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:07:52 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:07:52 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:07:54 [INFO]: Adding spectrum...
+2023/03/15 14:07:54 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:07:54 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:07:54 [INFO]: Plots updated with new data.
+2023/03/15 14:07:54 [INFO]: Spectrum saved!
+2023/03/15 14:07:54 [INFO]: Data added!
+2023/03/15 14:07:54 [INFO]: Total acquisitions = 34/1000.0
+2023/03/15 14:07:54 [INFO]: Successful acquisitions = 13
+2023/03/15 14:07:54 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:08:08 [INFO]: No data found.
+2023/03/15 14:08:08 [INFO]: Total acquisitions = 35/1000.0
+2023/03/15 14:08:08 [INFO]: Successful acquisitions = 13
+2023/03/15 14:08:08 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:08:22 [INFO]: No data found.
+2023/03/15 14:08:22 [INFO]: Total acquisitions = 36/1000.0
+2023/03/15 14:08:22 [INFO]: Successful acquisitions = 13
+2023/03/15 14:08:22 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:08:30 [INFO]: Trapping successful at iteration num: 6
+2023/03/15 14:08:30 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:08:33 [INFO]: Adding spectrum...
+2023/03/15 14:08:33 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:08:33 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:08:33 [INFO]: Plots updated with new data.
+2023/03/15 14:08:33 [INFO]: Spectrum saved!
+2023/03/15 14:08:33 [INFO]: Data added!
+2023/03/15 14:08:33 [INFO]: Total acquisitions = 37/1000.0
+2023/03/15 14:08:33 [INFO]: Successful acquisitions = 14
+2023/03/15 14:08:33 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:08:37 [INFO]: Trapping successful at iteration num: 3
+2023/03/15 14:08:37 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:08:39 [INFO]: Adding spectrum...
+2023/03/15 14:08:39 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:08:39 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:08:39 [INFO]: Plots updated with new data.
+2023/03/15 14:08:39 [INFO]: Spectrum saved!
+2023/03/15 14:08:39 [INFO]: Data added!
+2023/03/15 14:08:39 [INFO]: Total acquisitions = 38/1000.0
+2023/03/15 14:08:39 [INFO]: Successful acquisitions = 15
+2023/03/15 14:08:39 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:08:53 [INFO]: No data found.
+2023/03/15 14:08:53 [INFO]: Total acquisitions = 39/1000.0
+2023/03/15 14:08:53 [INFO]: Successful acquisitions = 15
+2023/03/15 14:08:53 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:09:07 [INFO]: No data found.
+2023/03/15 14:09:07 [INFO]: Total acquisitions = 40/1000.0
+2023/03/15 14:09:07 [INFO]: Successful acquisitions = 15
+2023/03/15 14:09:07 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:09:16 [INFO]: Trapping successful at iteration num: 7
+2023/03/15 14:09:16 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:09:18 [INFO]: Adding spectrum...
+2023/03/15 14:09:18 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:09:18 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:09:18 [INFO]: Plots updated with new data.
+2023/03/15 14:09:18 [INFO]: Spectrum saved!
+2023/03/15 14:09:18 [INFO]: Data added!
+2023/03/15 14:09:18 [INFO]: Total acquisitions = 41/1000.0
+2023/03/15 14:09:18 [INFO]: Successful acquisitions = 16
+2023/03/15 14:09:18 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:09:26 [INFO]: Trapping successful at iteration num: 6
+2023/03/15 14:09:26 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:09:29 [INFO]: Adding spectrum...
+2023/03/15 14:09:29 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:09:29 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:09:29 [INFO]: Plots updated with new data.
+2023/03/15 14:09:29 [INFO]: Spectrum saved!
+2023/03/15 14:09:29 [INFO]: Data added!
+2023/03/15 14:09:29 [INFO]: Total acquisitions = 42/1000.0
+2023/03/15 14:09:29 [INFO]: Successful acquisitions = 17
+2023/03/15 14:09:29 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:09:43 [INFO]: No data found.
+2023/03/15 14:09:43 [INFO]: Total acquisitions = 43/1000.0
+2023/03/15 14:09:43 [INFO]: Successful acquisitions = 17
+2023/03/15 14:09:43 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:09:57 [INFO]: No data found.
+2023/03/15 14:09:57 [INFO]: Total acquisitions = 44/1000.0
+2023/03/15 14:09:57 [INFO]: Successful acquisitions = 17
+2023/03/15 14:09:57 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:10:11 [INFO]: No data found.
+2023/03/15 14:10:11 [INFO]: Total acquisitions = 45/1000.0
+2023/03/15 14:10:11 [INFO]: Successful acquisitions = 17
+2023/03/15 14:10:11 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:10:25 [INFO]: No data found.
+2023/03/15 14:10:25 [INFO]: Total acquisitions = 46/1000.0
+2023/03/15 14:10:25 [INFO]: Successful acquisitions = 17
+2023/03/15 14:10:25 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:10:27 [INFO]: Trapping successful at iteration num: 2
+2023/03/15 14:10:27 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:10:30 [INFO]: Adding spectrum...
+2023/03/15 14:10:30 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:10:30 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:10:30 [INFO]: Plots updated with new data.
+2023/03/15 14:10:30 [INFO]: Spectrum saved!
+2023/03/15 14:10:30 [INFO]: Data added!
+2023/03/15 14:10:30 [INFO]: Total acquisitions = 47/1000.0
+2023/03/15 14:10:30 [INFO]: Successful acquisitions = 18
+2023/03/15 14:10:30 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:10:38 [INFO]: Trapping successful at iteration num: 6
+2023/03/15 14:10:38 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:10:40 [INFO]: Adding spectrum...
+2023/03/15 14:10:40 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:10:40 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:10:40 [INFO]: Plots updated with new data.
+2023/03/15 14:10:40 [INFO]: Spectrum saved!
+2023/03/15 14:10:40 [INFO]: Data added!
+2023/03/15 14:10:40 [INFO]: Total acquisitions = 48/1000.0
+2023/03/15 14:10:40 [INFO]: Successful acquisitions = 19
+2023/03/15 14:10:40 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:10:54 [INFO]: No data found.
+2023/03/15 14:10:54 [INFO]: Total acquisitions = 49/1000.0
+2023/03/15 14:10:54 [INFO]: Successful acquisitions = 19
+2023/03/15 14:10:54 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:11:08 [INFO]: No data found.
+2023/03/15 14:11:08 [INFO]: Total acquisitions = 50/1000.0
+2023/03/15 14:11:08 [INFO]: Successful acquisitions = 19
+2023/03/15 14:11:08 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:11:22 [INFO]: No data found.
+2023/03/15 14:11:22 [INFO]: Total acquisitions = 51/1000.0
+2023/03/15 14:11:22 [INFO]: Successful acquisitions = 19
+2023/03/15 14:11:22 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:11:33 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:11:33 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:11:35 [INFO]: Adding spectrum...
+2023/03/15 14:11:35 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:11:35 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:11:35 [INFO]: Plots updated with new data.
+2023/03/15 14:11:35 [INFO]: Spectrum saved!
+2023/03/15 14:11:35 [INFO]: Data added!
+2023/03/15 14:11:35 [INFO]: Total acquisitions = 52/1000.0
+2023/03/15 14:11:35 [INFO]: Successful acquisitions = 20
+2023/03/15 14:11:35 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:11:45 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:11:45 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:11:48 [INFO]: Adding spectrum...
+2023/03/15 14:11:48 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:11:48 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:11:48 [INFO]: Plots updated with new data.
+2023/03/15 14:11:48 [INFO]: Spectrum saved!
+2023/03/15 14:11:48 [INFO]: Data added!
+2023/03/15 14:11:48 [INFO]: Total acquisitions = 53/1000.0
+2023/03/15 14:11:48 [INFO]: Successful acquisitions = 21
+2023/03/15 14:11:48 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:11:49 [INFO]: Trapping successful at iteration num: 1
+2023/03/15 14:11:49 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:11:51 [INFO]: Adding spectrum...
+2023/03/15 14:11:51 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:11:51 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:11:51 [INFO]: Plots updated with new data.
+2023/03/15 14:11:51 [INFO]: Spectrum saved!
+2023/03/15 14:11:51 [INFO]: Data added!
+2023/03/15 14:11:51 [INFO]: Total acquisitions = 54/1000.0
+2023/03/15 14:11:51 [INFO]: Successful acquisitions = 22
+2023/03/15 14:11:51 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:11:59 [INFO]: Trapping successful at iteration num: 6
+2023/03/15 14:11:59 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:12:01 [INFO]: Adding spectrum...
+2023/03/15 14:12:01 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:12:01 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:12:01 [INFO]: Plots updated with new data.
+2023/03/15 14:12:01 [INFO]: Spectrum saved!
+2023/03/15 14:12:01 [INFO]: Data added!
+2023/03/15 14:12:01 [INFO]: Total acquisitions = 55/1000.0
+2023/03/15 14:12:01 [INFO]: Successful acquisitions = 23
+2023/03/15 14:12:01 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:12:12 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:12:12 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:12:14 [INFO]: Adding spectrum...
+2023/03/15 14:12:14 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:12:14 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:12:14 [INFO]: Plots updated with new data.
+2023/03/15 14:12:14 [INFO]: Spectrum saved!
+2023/03/15 14:12:14 [INFO]: Data added!
+2023/03/15 14:12:14 [INFO]: Total acquisitions = 56/1000.0
+2023/03/15 14:12:14 [INFO]: Successful acquisitions = 24
+2023/03/15 14:12:14 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:12:28 [INFO]: No data found.
+2023/03/15 14:12:28 [INFO]: Total acquisitions = 57/1000.0
+2023/03/15 14:12:28 [INFO]: Successful acquisitions = 24
+2023/03/15 14:12:28 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:12:31 [INFO]: Trapping successful at iteration num: 2
+2023/03/15 14:12:31 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:12:33 [INFO]: Adding spectrum...
+2023/03/15 14:12:33 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:12:33 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:12:33 [INFO]: Plots updated with new data.
+2023/03/15 14:12:33 [INFO]: Spectrum saved!
+2023/03/15 14:12:33 [INFO]: Data added!
+2023/03/15 14:12:33 [INFO]: Total acquisitions = 58/1000.0
+2023/03/15 14:12:33 [INFO]: Successful acquisitions = 25
+2023/03/15 14:12:33 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:12:47 [INFO]: No data found.
+2023/03/15 14:12:47 [INFO]: Total acquisitions = 59/1000.0
+2023/03/15 14:12:47 [INFO]: Successful acquisitions = 25
+2023/03/15 14:12:47 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:13:01 [INFO]: No data found.
+2023/03/15 14:13:01 [INFO]: Total acquisitions = 60/1000.0
+2023/03/15 14:13:01 [INFO]: Successful acquisitions = 25
+2023/03/15 14:13:01 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:13:03 [INFO]: Trapping successful at iteration num: 1
+2023/03/15 14:13:03 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:13:05 [INFO]: Adding spectrum...
+2023/03/15 14:13:05 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:13:05 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:13:05 [INFO]: Plots updated with new data.
+2023/03/15 14:13:05 [INFO]: Spectrum saved!
+2023/03/15 14:13:05 [INFO]: Data added!
+2023/03/15 14:13:05 [INFO]: Total acquisitions = 61/1000.0
+2023/03/15 14:13:05 [INFO]: Successful acquisitions = 26
+2023/03/15 14:13:05 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:13:19 [INFO]: No data found.
+2023/03/15 14:13:19 [INFO]: Total acquisitions = 62/1000.0
+2023/03/15 14:13:19 [INFO]: Successful acquisitions = 26
+2023/03/15 14:13:19 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:13:32 [INFO]: Trapping successful at iteration num: 10
+2023/03/15 14:13:32 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:13:34 [INFO]: Adding spectrum...
+2023/03/15 14:13:34 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:13:34 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:13:34 [INFO]: Plots updated with new data.
+2023/03/15 14:13:34 [INFO]: Spectrum saved!
+2023/03/15 14:13:34 [INFO]: Data added!
+2023/03/15 14:13:34 [INFO]: Total acquisitions = 63/1000.0
+2023/03/15 14:13:34 [INFO]: Successful acquisitions = 27
+2023/03/15 14:13:34 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:13:45 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:13:45 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:13:47 [INFO]: Adding spectrum...
+2023/03/15 14:13:47 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:13:47 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:13:47 [INFO]: Plots updated with new data.
+2023/03/15 14:13:47 [INFO]: Spectrum saved!
+2023/03/15 14:13:47 [INFO]: Data added!
+2023/03/15 14:13:47 [INFO]: Total acquisitions = 64/1000.0
+2023/03/15 14:13:47 [INFO]: Successful acquisitions = 28
+2023/03/15 14:13:47 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:13:54 [INFO]: Trapping successful at iteration num: 5
+2023/03/15 14:13:54 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:13:56 [INFO]: Adding spectrum...
+2023/03/15 14:13:56 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:13:56 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:13:56 [INFO]: Plots updated with new data.
+2023/03/15 14:13:56 [INFO]: Spectrum saved!
+2023/03/15 14:13:56 [INFO]: Data added!
+2023/03/15 14:13:56 [INFO]: Total acquisitions = 65/1000.0
+2023/03/15 14:13:56 [INFO]: Successful acquisitions = 29
+2023/03/15 14:13:56 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:14:08 [INFO]: Trapping successful at iteration num: 9
+2023/03/15 14:14:08 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:14:10 [INFO]: Adding spectrum...
+2023/03/15 14:14:10 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:14:10 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:14:10 [INFO]: Plots updated with new data.
+2023/03/15 14:14:10 [INFO]: Spectrum saved!
+2023/03/15 14:14:10 [INFO]: Data added!
+2023/03/15 14:14:10 [INFO]: Total acquisitions = 66/1000.0
+2023/03/15 14:14:10 [INFO]: Successful acquisitions = 30
+2023/03/15 14:14:10 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:14:24 [INFO]: No data found.
+2023/03/15 14:14:24 [INFO]: Total acquisitions = 67/1000.0
+2023/03/15 14:14:24 [INFO]: Successful acquisitions = 30
+2023/03/15 14:14:24 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:14:38 [INFO]: No data found.
+2023/03/15 14:14:38 [INFO]: Total acquisitions = 68/1000.0
+2023/03/15 14:14:38 [INFO]: Successful acquisitions = 30
+2023/03/15 14:14:38 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:14:52 [INFO]: No data found.
+2023/03/15 14:14:52 [INFO]: Total acquisitions = 69/1000.0
+2023/03/15 14:14:52 [INFO]: Successful acquisitions = 30
+2023/03/15 14:14:52 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:15:06 [INFO]: No data found.
+2023/03/15 14:15:06 [INFO]: Total acquisitions = 70/1000.0
+2023/03/15 14:15:06 [INFO]: Successful acquisitions = 30
+2023/03/15 14:15:06 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:15:20 [INFO]: No data found.
+2023/03/15 14:15:20 [INFO]: Total acquisitions = 71/1000.0
+2023/03/15 14:15:20 [INFO]: Successful acquisitions = 30
+2023/03/15 14:15:20 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:15:23 [INFO]: Trapping successful at iteration num: 2
+2023/03/15 14:15:23 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:15:25 [INFO]: Adding spectrum...
+2023/03/15 14:15:25 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:15:25 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:15:25 [INFO]: Plots updated with new data.
+2023/03/15 14:15:25 [INFO]: Spectrum saved!
+2023/03/15 14:15:25 [INFO]: Data added!
+2023/03/15 14:15:25 [INFO]: Total acquisitions = 72/1000.0
+2023/03/15 14:15:25 [INFO]: Successful acquisitions = 31
+2023/03/15 14:15:25 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:15:39 [INFO]: No data found.
+2023/03/15 14:15:39 [INFO]: Total acquisitions = 73/1000.0
+2023/03/15 14:15:39 [INFO]: Successful acquisitions = 31
+2023/03/15 14:15:39 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:15:47 [INFO]: Trapping successful at iteration num: 6
+2023/03/15 14:15:47 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:15:50 [INFO]: Adding spectrum...
+2023/03/15 14:15:50 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:15:50 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:15:50 [INFO]: Plots updated with new data.
+2023/03/15 14:15:50 [INFO]: Spectrum saved!
+2023/03/15 14:15:50 [INFO]: Data added!
+2023/03/15 14:15:50 [INFO]: Total acquisitions = 74/1000.0
+2023/03/15 14:15:50 [INFO]: Successful acquisitions = 32
+2023/03/15 14:15:50 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:16:04 [INFO]: No data found.
+2023/03/15 14:16:04 [INFO]: Total acquisitions = 75/1000.0
+2023/03/15 14:16:04 [INFO]: Successful acquisitions = 32
+2023/03/15 14:16:04 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:16:13 [INFO]: Trapping successful at iteration num: 7
+2023/03/15 14:16:13 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:16:15 [INFO]: Adding spectrum...
+2023/03/15 14:16:15 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:16:15 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:16:15 [INFO]: Plots updated with new data.
+2023/03/15 14:16:15 [INFO]: Spectrum saved!
+2023/03/15 14:16:15 [INFO]: Data added!
+2023/03/15 14:16:15 [INFO]: Total acquisitions = 76/1000.0
+2023/03/15 14:16:15 [INFO]: Successful acquisitions = 33
+2023/03/15 14:16:15 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:16:29 [INFO]: No data found.
+2023/03/15 14:16:29 [INFO]: Total acquisitions = 77/1000.0
+2023/03/15 14:16:29 [INFO]: Successful acquisitions = 33
+2023/03/15 14:16:29 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:16:43 [INFO]: No data found.
+2023/03/15 14:16:43 [INFO]: Total acquisitions = 78/1000.0
+2023/03/15 14:16:43 [INFO]: Successful acquisitions = 33
+2023/03/15 14:16:43 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:16:51 [INFO]: Trapping successful at iteration num: 6
+2023/03/15 14:16:51 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:16:53 [INFO]: Adding spectrum...
+2023/03/15 14:16:53 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:16:53 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:16:53 [INFO]: Plots updated with new data.
+2023/03/15 14:16:53 [INFO]: Spectrum saved!
+2023/03/15 14:16:53 [INFO]: Data added!
+2023/03/15 14:16:53 [INFO]: Total acquisitions = 79/1000.0
+2023/03/15 14:16:53 [INFO]: Successful acquisitions = 34
+2023/03/15 14:16:53 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:16:56 [INFO]: Trapping successful at iteration num: 2
+2023/03/15 14:16:56 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:16:58 [INFO]: Adding spectrum...
+2023/03/15 14:16:58 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:16:58 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:16:58 [INFO]: Plots updated with new data.
+2023/03/15 14:16:58 [INFO]: Spectrum saved!
+2023/03/15 14:16:58 [INFO]: Data added!
+2023/03/15 14:16:58 [INFO]: Total acquisitions = 80/1000.0
+2023/03/15 14:16:58 [INFO]: Successful acquisitions = 35
+2023/03/15 14:16:58 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:17:12 [INFO]: No data found.
+2023/03/15 14:17:12 [INFO]: Total acquisitions = 81/1000.0
+2023/03/15 14:17:12 [INFO]: Successful acquisitions = 35
+2023/03/15 14:17:12 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:17:19 [INFO]: Trapping successful at iteration num: 5
+2023/03/15 14:17:19 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:17:21 [INFO]: Adding spectrum...
+2023/03/15 14:17:21 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:17:21 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:17:21 [INFO]: Plots updated with new data.
+2023/03/15 14:17:21 [INFO]: Spectrum saved!
+2023/03/15 14:17:21 [INFO]: Data added!
+2023/03/15 14:17:21 [INFO]: Total acquisitions = 82/1000.0
+2023/03/15 14:17:21 [INFO]: Successful acquisitions = 36
+2023/03/15 14:17:21 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:17:25 [INFO]: Trapping successful at iteration num: 3
+2023/03/15 14:17:25 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:17:27 [INFO]: Adding spectrum...
+2023/03/15 14:17:27 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:17:27 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:17:28 [INFO]: Plots updated with new data.
+2023/03/15 14:17:28 [INFO]: Spectrum saved!
+2023/03/15 14:17:28 [INFO]: Data added!
+2023/03/15 14:17:28 [INFO]: Total acquisitions = 83/1000.0
+2023/03/15 14:17:28 [INFO]: Successful acquisitions = 37
+2023/03/15 14:17:28 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:17:41 [INFO]: Trapping successful at iteration num: 10
+2023/03/15 14:17:41 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:17:43 [INFO]: Adding spectrum...
+2023/03/15 14:17:43 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:17:43 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:17:43 [INFO]: Plots updated with new data.
+2023/03/15 14:17:43 [INFO]: Spectrum saved!
+2023/03/15 14:17:43 [INFO]: Data added!
+2023/03/15 14:17:43 [INFO]: Total acquisitions = 84/1000.0
+2023/03/15 14:17:43 [INFO]: Successful acquisitions = 38
+2023/03/15 14:17:43 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:17:57 [INFO]: No data found.
+2023/03/15 14:17:57 [INFO]: Total acquisitions = 85/1000.0
+2023/03/15 14:17:57 [INFO]: Successful acquisitions = 38
+2023/03/15 14:17:57 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:18:11 [INFO]: No data found.
+2023/03/15 14:18:11 [INFO]: Total acquisitions = 86/1000.0
+2023/03/15 14:18:11 [INFO]: Successful acquisitions = 38
+2023/03/15 14:18:11 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:18:25 [INFO]: No data found.
+2023/03/15 14:18:25 [INFO]: Total acquisitions = 87/1000.0
+2023/03/15 14:18:25 [INFO]: Successful acquisitions = 38
+2023/03/15 14:18:25 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:18:34 [INFO]: Trapping successful at iteration num: 7
+2023/03/15 14:18:34 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:18:36 [INFO]: Adding spectrum...
+2023/03/15 14:18:36 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:18:36 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:18:37 [INFO]: Plots updated with new data.
+2023/03/15 14:18:37 [INFO]: Spectrum saved!
+2023/03/15 14:18:37 [INFO]: Data added!
+2023/03/15 14:18:37 [INFO]: Total acquisitions = 88/1000.0
+2023/03/15 14:18:37 [INFO]: Successful acquisitions = 39
+2023/03/15 14:18:37 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:18:51 [INFO]: No data found.
+2023/03/15 14:18:51 [INFO]: Total acquisitions = 89/1000.0
+2023/03/15 14:18:51 [INFO]: Successful acquisitions = 39
+2023/03/15 14:18:51 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:18:52 [INFO]: Trapping successful at iteration num: 1
+2023/03/15 14:18:52 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:18:54 [INFO]: Adding spectrum...
+2023/03/15 14:18:54 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:18:54 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:18:54 [INFO]: Plots updated with new data.
+2023/03/15 14:18:54 [INFO]: Spectrum saved!
+2023/03/15 14:18:54 [INFO]: Data added!
+2023/03/15 14:18:54 [INFO]: Total acquisitions = 90/1000.0
+2023/03/15 14:18:54 [INFO]: Successful acquisitions = 40
+2023/03/15 14:18:54 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:18:57 [INFO]: Trapping successful at iteration num: 2
+2023/03/15 14:18:57 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:18:59 [INFO]: Adding spectrum...
+2023/03/15 14:18:59 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:18:59 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:18:59 [INFO]: Plots updated with new data.
+2023/03/15 14:18:59 [INFO]: Spectrum saved!
+2023/03/15 14:18:59 [INFO]: Data added!
+2023/03/15 14:18:59 [INFO]: Total acquisitions = 91/1000.0
+2023/03/15 14:18:59 [INFO]: Successful acquisitions = 41
+2023/03/15 14:18:59 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:19:01 [INFO]: Trapping successful at iteration num: 1
+2023/03/15 14:19:01 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:19:03 [INFO]: Adding spectrum...
+2023/03/15 14:19:03 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:19:03 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:19:03 [INFO]: Plots updated with new data.
+2023/03/15 14:19:03 [INFO]: Spectrum saved!
+2023/03/15 14:19:03 [INFO]: Data added!
+2023/03/15 14:19:03 [INFO]: Total acquisitions = 92/1000.0
+2023/03/15 14:19:03 [INFO]: Successful acquisitions = 42
+2023/03/15 14:19:03 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:19:17 [INFO]: No data found.
+2023/03/15 14:19:17 [INFO]: Total acquisitions = 93/1000.0
+2023/03/15 14:19:17 [INFO]: Successful acquisitions = 42
+2023/03/15 14:19:17 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:19:31 [INFO]: No data found.
+2023/03/15 14:19:31 [INFO]: Total acquisitions = 94/1000.0
+2023/03/15 14:19:31 [INFO]: Successful acquisitions = 42
+2023/03/15 14:19:31 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:19:45 [INFO]: No data found.
+2023/03/15 14:19:45 [INFO]: Total acquisitions = 95/1000.0
+2023/03/15 14:19:45 [INFO]: Successful acquisitions = 42
+2023/03/15 14:19:45 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:19:58 [INFO]: Trapping successful at iteration num: 10
+2023/03/15 14:19:58 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:20:00 [INFO]: Adding spectrum...
+2023/03/15 14:20:00 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:20:00 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:20:00 [INFO]: Plots updated with new data.
+2023/03/15 14:20:00 [INFO]: Spectrum saved!
+2023/03/15 14:20:00 [INFO]: Data added!
+2023/03/15 14:20:00 [INFO]: Total acquisitions = 96/1000.0
+2023/03/15 14:20:00 [INFO]: Successful acquisitions = 43
+2023/03/15 14:20:00 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:20:11 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:20:11 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:20:13 [INFO]: Adding spectrum...
+2023/03/15 14:20:13 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:20:13 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:20:13 [INFO]: Plots updated with new data.
+2023/03/15 14:20:13 [INFO]: Spectrum saved!
+2023/03/15 14:20:13 [INFO]: Data added!
+2023/03/15 14:20:13 [INFO]: Total acquisitions = 97/1000.0
+2023/03/15 14:20:13 [INFO]: Successful acquisitions = 44
+2023/03/15 14:20:13 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:20:27 [INFO]: No data found.
+2023/03/15 14:20:27 [INFO]: Total acquisitions = 98/1000.0
+2023/03/15 14:20:27 [INFO]: Successful acquisitions = 44
+2023/03/15 14:20:27 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:20:41 [INFO]: No data found.
+2023/03/15 14:20:41 [INFO]: Total acquisitions = 99/1000.0
+2023/03/15 14:20:41 [INFO]: Successful acquisitions = 44
+2023/03/15 14:20:41 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:20:55 [INFO]: No data found.
+2023/03/15 14:20:55 [INFO]: Total acquisitions = 100/1000.0
+2023/03/15 14:20:55 [INFO]: Successful acquisitions = 44
+2023/03/15 14:20:55 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:20:58 [INFO]: Trapping successful at iteration num: 2
+2023/03/15 14:20:58 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:00 [INFO]: Adding spectrum...
+2023/03/15 14:21:00 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:21:00 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:21:00 [INFO]: Plots updated with new data.
+2023/03/15 14:21:00 [INFO]: Spectrum saved!
+2023/03/15 14:21:00 [INFO]: Data added!
+2023/03/15 14:21:00 [INFO]: Total acquisitions = 101/1000.0
+2023/03/15 14:21:00 [INFO]: Successful acquisitions = 45
+2023/03/15 14:21:00 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:07 [INFO]: Trapping successful at iteration num: 5
+2023/03/15 14:21:07 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:09 [INFO]: Adding spectrum...
+2023/03/15 14:21:09 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:21:09 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:21:09 [INFO]: Plots updated with new data.
+2023/03/15 14:21:09 [INFO]: Spectrum saved!
+2023/03/15 14:21:09 [INFO]: Data added!
+2023/03/15 14:21:09 [INFO]: Total acquisitions = 102/1000.0
+2023/03/15 14:21:09 [INFO]: Successful acquisitions = 46
+2023/03/15 14:21:09 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:23 [INFO]: No data found.
+2023/03/15 14:21:23 [INFO]: Total acquisitions = 103/1000.0
+2023/03/15 14:21:23 [INFO]: Successful acquisitions = 46
+2023/03/15 14:21:23 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:26 [INFO]: Trapping successful at iteration num: 2
+2023/03/15 14:21:26 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:28 [INFO]: Adding spectrum...
+2023/03/15 14:21:28 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:21:28 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:21:28 [INFO]: Plots updated with new data.
+2023/03/15 14:21:28 [INFO]: Spectrum saved!
+2023/03/15 14:21:28 [INFO]: Data added!
+2023/03/15 14:21:28 [INFO]: Total acquisitions = 104/1000.0
+2023/03/15 14:21:28 [INFO]: Successful acquisitions = 47
+2023/03/15 14:21:28 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:31 [INFO]: Trapping successful at iteration num: 2
+2023/03/15 14:21:31 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:33 [INFO]: Adding spectrum...
+2023/03/15 14:21:33 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:21:33 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:21:33 [INFO]: Plots updated with new data.
+2023/03/15 14:21:33 [INFO]: Spectrum saved!
+2023/03/15 14:21:33 [INFO]: Data added!
+2023/03/15 14:21:33 [INFO]: Total acquisitions = 105/1000.0
+2023/03/15 14:21:33 [INFO]: Successful acquisitions = 48
+2023/03/15 14:21:33 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:38 [INFO]: Trapping successful at iteration num: 4
+2023/03/15 14:21:38 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:41 [INFO]: Adding spectrum...
+2023/03/15 14:21:41 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:21:41 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:21:41 [INFO]: Plots updated with new data.
+2023/03/15 14:21:41 [INFO]: Spectrum saved!
+2023/03/15 14:21:41 [INFO]: Data added!
+2023/03/15 14:21:41 [INFO]: Total acquisitions = 106/1000.0
+2023/03/15 14:21:41 [INFO]: Successful acquisitions = 49
+2023/03/15 14:21:41 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:21:55 [INFO]: No data found.
+2023/03/15 14:21:55 [INFO]: Total acquisitions = 107/1000.0
+2023/03/15 14:21:55 [INFO]: Successful acquisitions = 49
+2023/03/15 14:21:55 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:22:09 [INFO]: No data found.
+2023/03/15 14:22:09 [INFO]: Total acquisitions = 108/1000.0
+2023/03/15 14:22:09 [INFO]: Successful acquisitions = 49
+2023/03/15 14:22:09 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:22:23 [INFO]: No data found.
+2023/03/15 14:22:23 [INFO]: Total acquisitions = 109/1000.0
+2023/03/15 14:22:23 [INFO]: Successful acquisitions = 49
+2023/03/15 14:22:23 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:22:37 [INFO]: No data found.
+2023/03/15 14:22:37 [INFO]: Total acquisitions = 110/1000.0
+2023/03/15 14:22:37 [INFO]: Successful acquisitions = 49
+2023/03/15 14:22:37 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:22:45 [INFO]: Trapping successful at iteration num: 6
+2023/03/15 14:22:45 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:22:47 [INFO]: Adding spectrum...
+2023/03/15 14:22:47 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:22:47 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:22:47 [INFO]: Plots updated with new data.
+2023/03/15 14:22:47 [INFO]: Spectrum saved!
+2023/03/15 14:22:47 [INFO]: Data added!
+2023/03/15 14:22:47 [INFO]: Total acquisitions = 111/1000.0
+2023/03/15 14:22:47 [INFO]: Successful acquisitions = 50
+2023/03/15 14:22:47 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:23:01 [INFO]: No data found.
+2023/03/15 14:23:01 [INFO]: Total acquisitions = 112/1000.0
+2023/03/15 14:23:01 [INFO]: Successful acquisitions = 50
+2023/03/15 14:23:01 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:23:04 [INFO]: Trapping successful at iteration num: 2
+2023/03/15 14:23:04 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:23:06 [INFO]: Adding spectrum...
+2023/03/15 14:23:06 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:23:06 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:23:06 [INFO]: Plots updated with new data.
+2023/03/15 14:23:06 [INFO]: Spectrum saved!
+2023/03/15 14:23:06 [INFO]: Data added!
+2023/03/15 14:23:06 [INFO]: Total acquisitions = 113/1000.0
+2023/03/15 14:23:06 [INFO]: Successful acquisitions = 51
+2023/03/15 14:23:06 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:23:19 [INFO]: Trapping successful at iteration num: 10
+2023/03/15 14:23:19 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:23:21 [INFO]: Adding spectrum...
+2023/03/15 14:23:21 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:23:21 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:23:21 [INFO]: Plots updated with new data.
+2023/03/15 14:23:21 [INFO]: Spectrum saved!
+2023/03/15 14:23:21 [INFO]: Data added!
+2023/03/15 14:23:21 [INFO]: Total acquisitions = 114/1000.0
+2023/03/15 14:23:21 [INFO]: Successful acquisitions = 52
+2023/03/15 14:23:21 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:23:35 [INFO]: No data found.
+2023/03/15 14:23:35 [INFO]: Total acquisitions = 115/1000.0
+2023/03/15 14:23:35 [INFO]: Successful acquisitions = 52
+2023/03/15 14:23:36 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:23:47 [INFO]: Trapping successful at iteration num: 9
+2023/03/15 14:23:47 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:23:50 [INFO]: Adding spectrum...
+2023/03/15 14:23:50 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:23:50 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:23:50 [INFO]: Plots updated with new data.
+2023/03/15 14:23:50 [INFO]: Spectrum saved!
+2023/03/15 14:23:50 [INFO]: Data added!
+2023/03/15 14:23:50 [INFO]: Total acquisitions = 116/1000.0
+2023/03/15 14:23:50 [INFO]: Successful acquisitions = 53
+2023/03/15 14:23:50 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:24:04 [INFO]: No data found.
+2023/03/15 14:24:04 [INFO]: Total acquisitions = 117/1000.0
+2023/03/15 14:24:04 [INFO]: Successful acquisitions = 53
+2023/03/15 14:24:04 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:24:18 [INFO]: No data found.
+2023/03/15 14:24:18 [INFO]: Total acquisitions = 118/1000.0
+2023/03/15 14:24:18 [INFO]: Successful acquisitions = 53
+2023/03/15 14:24:18 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:24:32 [INFO]: No data found.
+2023/03/15 14:24:32 [INFO]: Total acquisitions = 119/1000.0
+2023/03/15 14:24:32 [INFO]: Successful acquisitions = 53
+2023/03/15 14:24:32 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:24:46 [INFO]: No data found.
+2023/03/15 14:24:46 [INFO]: Total acquisitions = 120/1000.0
+2023/03/15 14:24:46 [INFO]: Successful acquisitions = 53
+2023/03/15 14:24:46 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:25:00 [INFO]: No data found.
+2023/03/15 14:25:00 [INFO]: Total acquisitions = 121/1000.0
+2023/03/15 14:25:00 [INFO]: Successful acquisitions = 53
+2023/03/15 14:25:00 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:25:14 [INFO]: No data found.
+2023/03/15 14:25:14 [INFO]: Total acquisitions = 122/1000.0
+2023/03/15 14:25:14 [INFO]: Successful acquisitions = 53
+2023/03/15 14:25:14 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:25:28 [INFO]: No data found.
+2023/03/15 14:25:28 [INFO]: Total acquisitions = 123/1000.0
+2023/03/15 14:25:28 [INFO]: Successful acquisitions = 53
+2023/03/15 14:25:28 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:25:42 [INFO]: No data found.
+2023/03/15 14:25:42 [INFO]: Total acquisitions = 124/1000.0
+2023/03/15 14:25:42 [INFO]: Successful acquisitions = 53
+2023/03/15 14:25:42 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:25:56 [INFO]: No data found.
+2023/03/15 14:25:56 [INFO]: Total acquisitions = 125/1000.0
+2023/03/15 14:25:56 [INFO]: Successful acquisitions = 53
+2023/03/15 14:25:56 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:26:05 [INFO]: Trapping successful at iteration num: 7
+2023/03/15 14:26:05 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:26:07 [INFO]: Adding spectrum...
+2023/03/15 14:26:07 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:26:07 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:26:07 [INFO]: Plots updated with new data.
+2023/03/15 14:26:07 [INFO]: Spectrum saved!
+2023/03/15 14:26:07 [INFO]: Data added!
+2023/03/15 14:26:07 [INFO]: Total acquisitions = 126/1000.0
+2023/03/15 14:26:07 [INFO]: Successful acquisitions = 54
+2023/03/15 14:26:07 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:26:13 [INFO]: Trapping successful at iteration num: 4
+2023/03/15 14:26:13 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:26:15 [INFO]: Adding spectrum...
+2023/03/15 14:26:15 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:26:15 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:26:15 [INFO]: Plots updated with new data.
+2023/03/15 14:26:15 [INFO]: Spectrum saved!
+2023/03/15 14:26:15 [INFO]: Data added!
+2023/03/15 14:26:15 [INFO]: Total acquisitions = 127/1000.0
+2023/03/15 14:26:15 [INFO]: Successful acquisitions = 55
+2023/03/15 14:26:15 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:26:29 [INFO]: No data found.
+2023/03/15 14:26:29 [INFO]: Total acquisitions = 128/1000.0
+2023/03/15 14:26:29 [INFO]: Successful acquisitions = 55
+2023/03/15 14:26:29 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:26:43 [INFO]: No data found.
+2023/03/15 14:26:43 [INFO]: Total acquisitions = 129/1000.0
+2023/03/15 14:26:43 [INFO]: Successful acquisitions = 55
+2023/03/15 14:26:43 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:26:57 [INFO]: No data found.
+2023/03/15 14:26:57 [INFO]: Total acquisitions = 130/1000.0
+2023/03/15 14:26:57 [INFO]: Successful acquisitions = 55
+2023/03/15 14:26:57 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:27:11 [INFO]: No data found.
+2023/03/15 14:27:11 [INFO]: Total acquisitions = 131/1000.0
+2023/03/15 14:27:11 [INFO]: Successful acquisitions = 55
+2023/03/15 14:27:11 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:27:25 [INFO]: No data found.
+2023/03/15 14:27:25 [INFO]: Total acquisitions = 132/1000.0
+2023/03/15 14:27:25 [INFO]: Successful acquisitions = 55
+2023/03/15 14:27:25 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:27:39 [INFO]: No data found.
+2023/03/15 14:27:39 [INFO]: Total acquisitions = 133/1000.0
+2023/03/15 14:27:39 [INFO]: Successful acquisitions = 55
+2023/03/15 14:27:39 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:27:50 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:27:50 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:27:52 [INFO]: Adding spectrum...
+2023/03/15 14:27:52 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:27:52 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:27:52 [INFO]: Plots updated with new data.
+2023/03/15 14:27:52 [INFO]: Spectrum saved!
+2023/03/15 14:27:52 [INFO]: Data added!
+2023/03/15 14:27:52 [INFO]: Total acquisitions = 134/1000.0
+2023/03/15 14:27:52 [INFO]: Successful acquisitions = 56
+2023/03/15 14:27:52 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:28:02 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:28:02 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:28:05 [INFO]: Adding spectrum...
+2023/03/15 14:28:05 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:28:05 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:28:05 [INFO]: Plots updated with new data.
+2023/03/15 14:28:05 [INFO]: Spectrum saved!
+2023/03/15 14:28:05 [INFO]: Data added!
+2023/03/15 14:28:05 [INFO]: Total acquisitions = 135/1000.0
+2023/03/15 14:28:05 [INFO]: Successful acquisitions = 57
+2023/03/15 14:28:05 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:28:17 [INFO]: Trapping successful at iteration num: 9
+2023/03/15 14:28:17 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:28:19 [INFO]: Adding spectrum...
+2023/03/15 14:28:19 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:28:19 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:28:19 [INFO]: Plots updated with new data.
+2023/03/15 14:28:19 [INFO]: Spectrum saved!
+2023/03/15 14:28:19 [INFO]: Data added!
+2023/03/15 14:28:19 [INFO]: Total acquisitions = 136/1000.0
+2023/03/15 14:28:19 [INFO]: Successful acquisitions = 58
+2023/03/15 14:28:19 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:28:33 [INFO]: No data found.
+2023/03/15 14:28:33 [INFO]: Total acquisitions = 137/1000.0
+2023/03/15 14:28:33 [INFO]: Successful acquisitions = 58
+2023/03/15 14:28:33 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:28:47 [INFO]: No data found.
+2023/03/15 14:28:47 [INFO]: Total acquisitions = 138/1000.0
+2023/03/15 14:28:47 [INFO]: Successful acquisitions = 58
+2023/03/15 14:28:47 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:29:01 [INFO]: No data found.
+2023/03/15 14:29:01 [INFO]: Total acquisitions = 139/1000.0
+2023/03/15 14:29:01 [INFO]: Successful acquisitions = 58
+2023/03/15 14:29:01 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:29:15 [INFO]: No data found.
+2023/03/15 14:29:15 [INFO]: Total acquisitions = 140/1000.0
+2023/03/15 14:29:15 [INFO]: Successful acquisitions = 58
+2023/03/15 14:29:15 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:29:29 [INFO]: No data found.
+2023/03/15 14:29:29 [INFO]: Total acquisitions = 141/1000.0
+2023/03/15 14:29:29 [INFO]: Successful acquisitions = 58
+2023/03/15 14:29:29 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:29:38 [INFO]: Trapping successful at iteration num: 7
+2023/03/15 14:29:38 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:29:40 [INFO]: Adding spectrum...
+2023/03/15 14:29:41 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:29:41 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:29:41 [INFO]: Plots updated with new data.
+2023/03/15 14:29:41 [INFO]: Spectrum saved!
+2023/03/15 14:29:41 [INFO]: Data added!
+2023/03/15 14:29:41 [INFO]: Total acquisitions = 142/1000.0
+2023/03/15 14:29:41 [INFO]: Successful acquisitions = 59
+2023/03/15 14:29:41 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:29:55 [INFO]: No data found.
+2023/03/15 14:29:55 [INFO]: Total acquisitions = 143/1000.0
+2023/03/15 14:29:55 [INFO]: Successful acquisitions = 59
+2023/03/15 14:29:55 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:30:05 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:30:05 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:30:07 [INFO]: Adding spectrum...
+2023/03/15 14:30:07 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:30:07 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:30:07 [INFO]: Plots updated with new data.
+2023/03/15 14:30:07 [INFO]: Spectrum saved!
+2023/03/15 14:30:07 [INFO]: Data added!
+2023/03/15 14:30:07 [INFO]: Total acquisitions = 144/1000.0
+2023/03/15 14:30:07 [INFO]: Successful acquisitions = 60
+2023/03/15 14:30:07 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:30:21 [INFO]: No data found.
+2023/03/15 14:30:21 [INFO]: Total acquisitions = 145/1000.0
+2023/03/15 14:30:21 [INFO]: Successful acquisitions = 60
+2023/03/15 14:30:21 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:30:33 [INFO]: Trapping successful at iteration num: 9
+2023/03/15 14:30:33 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:30:35 [INFO]: Adding spectrum...
+2023/03/15 14:30:35 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:30:35 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:30:35 [INFO]: Plots updated with new data.
+2023/03/15 14:30:35 [INFO]: Spectrum saved!
+2023/03/15 14:30:35 [INFO]: Data added!
+2023/03/15 14:30:35 [INFO]: Total acquisitions = 146/1000.0
+2023/03/15 14:30:35 [INFO]: Successful acquisitions = 61
+2023/03/15 14:30:35 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:30:50 [INFO]: No data found.
+2023/03/15 14:30:50 [INFO]: Total acquisitions = 147/1000.0
+2023/03/15 14:30:50 [INFO]: Successful acquisitions = 61
+2023/03/15 14:30:50 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:31:04 [INFO]: No data found.
+2023/03/15 14:31:04 [INFO]: Total acquisitions = 148/1000.0
+2023/03/15 14:31:04 [INFO]: Successful acquisitions = 61
+2023/03/15 14:31:04 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:31:18 [INFO]: No data found.
+2023/03/15 14:31:18 [INFO]: Total acquisitions = 149/1000.0
+2023/03/15 14:31:18 [INFO]: Successful acquisitions = 61
+2023/03/15 14:31:18 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:31:32 [INFO]: No data found.
+2023/03/15 14:31:32 [INFO]: Total acquisitions = 150/1000.0
+2023/03/15 14:31:32 [INFO]: Successful acquisitions = 61
+2023/03/15 14:31:32 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:31:46 [INFO]: No data found.
+2023/03/15 14:31:46 [INFO]: Total acquisitions = 151/1000.0
+2023/03/15 14:31:46 [INFO]: Successful acquisitions = 61
+2023/03/15 14:31:46 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:32:00 [INFO]: No data found.
+2023/03/15 14:32:00 [INFO]: Total acquisitions = 152/1000.0
+2023/03/15 14:32:00 [INFO]: Successful acquisitions = 61
+2023/03/15 14:32:00 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:32:11 [INFO]: Trapping successful at iteration num: 9
+2023/03/15 14:32:11 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:32:14 [INFO]: Adding spectrum...
+2023/03/15 14:32:14 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:32:14 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:32:14 [INFO]: Plots updated with new data.
+2023/03/15 14:32:14 [INFO]: Spectrum saved!
+2023/03/15 14:32:14 [INFO]: Data added!
+2023/03/15 14:32:14 [INFO]: Total acquisitions = 153/1000.0
+2023/03/15 14:32:14 [INFO]: Successful acquisitions = 62
+2023/03/15 14:32:14 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:32:28 [INFO]: No data found.
+2023/03/15 14:32:28 [INFO]: Total acquisitions = 154/1000.0
+2023/03/15 14:32:28 [INFO]: Successful acquisitions = 62
+2023/03/15 14:32:28 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:32:42 [INFO]: No data found.
+2023/03/15 14:32:42 [INFO]: Total acquisitions = 155/1000.0
+2023/03/15 14:32:42 [INFO]: Successful acquisitions = 62
+2023/03/15 14:32:42 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:32:54 [INFO]: Trapping successful at iteration num: 9
+2023/03/15 14:32:54 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:32:56 [INFO]: Adding spectrum...
+2023/03/15 14:32:56 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:32:56 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:32:56 [INFO]: Plots updated with new data.
+2023/03/15 14:32:56 [INFO]: Spectrum saved!
+2023/03/15 14:32:56 [INFO]: Data added!
+2023/03/15 14:32:56 [INFO]: Total acquisitions = 156/1000.0
+2023/03/15 14:32:56 [INFO]: Successful acquisitions = 63
+2023/03/15 14:32:56 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:32:57 [INFO]: Trapping successful at iteration num: 1
+2023/03/15 14:32:57 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:33:00 [INFO]: Adding spectrum...
+2023/03/15 14:33:00 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:33:00 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:33:00 [INFO]: Plots updated with new data.
+2023/03/15 14:33:00 [INFO]: Spectrum saved!
+2023/03/15 14:33:00 [INFO]: Data added!
+2023/03/15 14:33:00 [INFO]: Total acquisitions = 157/1000.0
+2023/03/15 14:33:00 [INFO]: Successful acquisitions = 64
+2023/03/15 14:33:00 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:33:04 [INFO]: Trapping successful at iteration num: 3
+2023/03/15 14:33:04 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:33:06 [INFO]: Adding spectrum...
+2023/03/15 14:33:06 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:33:06 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:33:06 [INFO]: Plots updated with new data.
+2023/03/15 14:33:06 [INFO]: Spectrum saved!
+2023/03/15 14:33:06 [INFO]: Data added!
+2023/03/15 14:33:06 [INFO]: Total acquisitions = 158/1000.0
+2023/03/15 14:33:06 [INFO]: Successful acquisitions = 65
+2023/03/15 14:33:06 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:33:20 [INFO]: No data found.
+2023/03/15 14:33:20 [INFO]: Total acquisitions = 159/1000.0
+2023/03/15 14:33:20 [INFO]: Successful acquisitions = 65
+2023/03/15 14:33:20 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:33:24 [INFO]: Trapping successful at iteration num: 3
+2023/03/15 14:33:24 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:33:26 [INFO]: Adding spectrum...
+2023/03/15 14:33:26 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:33:26 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:33:26 [INFO]: Plots updated with new data.
+2023/03/15 14:33:26 [INFO]: Spectrum saved!
+2023/03/15 14:33:26 [INFO]: Data added!
+2023/03/15 14:33:26 [INFO]: Total acquisitions = 160/1000.0
+2023/03/15 14:33:26 [INFO]: Successful acquisitions = 66
+2023/03/15 14:33:26 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:33:37 [INFO]: Trapping successful at iteration num: 8
+2023/03/15 14:33:37 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:33:39 [INFO]: Adding spectrum...
+2023/03/15 14:33:39 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:33:39 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:33:39 [INFO]: Plots updated with new data.
+2023/03/15 14:33:39 [INFO]: Spectrum saved!
+2023/03/15 14:33:39 [INFO]: Data added!
+2023/03/15 14:33:39 [INFO]: Total acquisitions = 161/1000.0
+2023/03/15 14:33:39 [INFO]: Successful acquisitions = 67
+2023/03/15 14:33:39 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:33:53 [INFO]: No data found.
+2023/03/15 14:33:53 [INFO]: Total acquisitions = 162/1000.0
+2023/03/15 14:33:53 [INFO]: Successful acquisitions = 67
+2023/03/15 14:33:53 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:34:07 [INFO]: No data found.
+2023/03/15 14:34:07 [INFO]: Total acquisitions = 163/1000.0
+2023/03/15 14:34:07 [INFO]: Successful acquisitions = 67
+2023/03/15 14:34:07 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:34:21 [INFO]: No data found.
+2023/03/15 14:34:21 [INFO]: Total acquisitions = 164/1000.0
+2023/03/15 14:34:21 [INFO]: Successful acquisitions = 67
+2023/03/15 14:34:21 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:34:35 [INFO]: No data found.
+2023/03/15 14:34:35 [INFO]: Total acquisitions = 165/1000.0
+2023/03/15 14:34:35 [INFO]: Successful acquisitions = 67
+2023/03/15 14:34:35 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:34:42 [INFO]: Trapping successful at iteration num: 5
+2023/03/15 14:34:42 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:34:44 [INFO]: Adding spectrum...
+2023/03/15 14:34:44 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:34:44 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Chris\2023-03-15\PLGA_THF_DMSO_EdU_1SECEXP\measurement.csv.
+2023/03/15 14:34:44 [INFO]: Plots updated with new data.
+2023/03/15 14:34:44 [INFO]: Spectrum saved!
+2023/03/15 14:34:44 [INFO]: Data added!
+2023/03/15 14:34:44 [INFO]: Total acquisitions = 166/1000.0
+2023/03/15 14:34:44 [INFO]: Successful acquisitions = 68
+2023/03/15 14:34:44 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:34:58 [INFO]: No data found.
+2023/03/15 14:34:58 [INFO]: Total acquisitions = 167/1000.0
+2023/03/15 14:34:58 [INFO]: Successful acquisitions = 68
+2023/03/15 14:34:58 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:35:12 [INFO]: No data found.
+2023/03/15 14:35:12 [INFO]: Total acquisitions = 168/1000.0
+2023/03/15 14:35:12 [INFO]: Successful acquisitions = 68
+2023/03/15 14:35:12 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:35:20 [INFO]: Aborting Trapping...
+2023/03/15 14:35:21 [INFO]: Trapping successful at iteration num: 7
+2023/03/15 14:35:21 [INFO]: New exposure time set to 1.0 s.
+2023/03/15 14:35:24 [INFO]: Trapping sequence aborted.

@@ -1,0 +1,175 @@
+2023/03/08 10:37:45 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:37:46 [INFO]: Trapping successful at iteration num: 1
+2023/03/08 10:37:46 [INFO]: New exposure time set to 10.0 s.
+2023/03/08 10:37:59 [INFO]: Adding spectrum...
+2023/03/08 10:37:59 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_THF_LOADED\measurement.csv.
+2023/03/08 10:37:59 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_THF_LOADED\measurement.csv.
+2023/03/08 10:37:59 [INFO]: Plots updated with new data.
+2023/03/08 10:37:59 [INFO]: Spectrum saved!
+2023/03/08 10:37:59 [INFO]: Data added!
+2023/03/08 10:37:59 [INFO]: Total acquisitions = 1/100.0
+2023/03/08 10:37:59 [INFO]: Successful acquisitions = 1
+2023/03/08 10:37:59 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:38:14 [INFO]: No data found.
+2023/03/08 10:38:14 [INFO]: Total acquisitions = 2/100.0
+2023/03/08 10:38:14 [INFO]: Successful acquisitions = 1
+2023/03/08 10:38:14 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:38:28 [INFO]: No data found.
+2023/03/08 10:38:28 [INFO]: Total acquisitions = 3/100.0
+2023/03/08 10:38:28 [INFO]: Successful acquisitions = 1
+2023/03/08 10:38:28 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:38:33 [INFO]: Trapping successful at iteration num: 4
+2023/03/08 10:38:33 [INFO]: New exposure time set to 10.0 s.
+2023/03/08 10:38:45 [INFO]: Adding spectrum...
+2023/03/08 10:38:45 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_THF_LOADED\measurement.csv.
+2023/03/08 10:38:45 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_THF_LOADED\measurement.csv.
+2023/03/08 10:38:45 [INFO]: Plots updated with new data.
+2023/03/08 10:38:45 [INFO]: Spectrum saved!
+2023/03/08 10:38:45 [INFO]: Data added!
+2023/03/08 10:38:45 [INFO]: Total acquisitions = 4/100.0
+2023/03/08 10:38:45 [INFO]: Successful acquisitions = 2
+2023/03/08 10:38:45 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:39:00 [INFO]: No data found.
+2023/03/08 10:39:00 [INFO]: Total acquisitions = 5/100.0
+2023/03/08 10:39:00 [INFO]: Successful acquisitions = 2
+2023/03/08 10:39:00 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:39:14 [INFO]: No data found.
+2023/03/08 10:39:14 [INFO]: Total acquisitions = 6/100.0
+2023/03/08 10:39:14 [INFO]: Successful acquisitions = 2
+2023/03/08 10:39:14 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:39:28 [INFO]: No data found.
+2023/03/08 10:39:28 [INFO]: Total acquisitions = 7/100.0
+2023/03/08 10:39:28 [INFO]: Successful acquisitions = 2
+2023/03/08 10:39:28 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:39:42 [INFO]: No data found.
+2023/03/08 10:39:42 [INFO]: Total acquisitions = 8/100.0
+2023/03/08 10:39:42 [INFO]: Successful acquisitions = 2
+2023/03/08 10:39:42 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:39:56 [INFO]: No data found.
+2023/03/08 10:39:56 [INFO]: Total acquisitions = 9/100.0
+2023/03/08 10:39:56 [INFO]: Successful acquisitions = 2
+2023/03/08 10:39:56 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:40:11 [INFO]: No data found.
+2023/03/08 10:40:11 [INFO]: Total acquisitions = 10/100.0
+2023/03/08 10:40:11 [INFO]: Successful acquisitions = 2
+2023/03/08 10:40:11 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:40:25 [INFO]: No data found.
+2023/03/08 10:40:25 [INFO]: Total acquisitions = 11/100.0
+2023/03/08 10:40:25 [INFO]: Successful acquisitions = 2
+2023/03/08 10:40:25 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:40:39 [INFO]: No data found.
+2023/03/08 10:40:39 [INFO]: Total acquisitions = 12/100.0
+2023/03/08 10:40:39 [INFO]: Successful acquisitions = 2
+2023/03/08 10:40:39 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:40:53 [INFO]: No data found.
+2023/03/08 10:40:53 [INFO]: Total acquisitions = 13/100.0
+2023/03/08 10:40:53 [INFO]: Successful acquisitions = 2
+2023/03/08 10:40:53 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:41:07 [INFO]: No data found.
+2023/03/08 10:41:07 [INFO]: Total acquisitions = 14/100.0
+2023/03/08 10:41:07 [INFO]: Successful acquisitions = 2
+2023/03/08 10:41:07 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:41:21 [INFO]: No data found.
+2023/03/08 10:41:21 [INFO]: Total acquisitions = 15/100.0
+2023/03/08 10:41:21 [INFO]: Successful acquisitions = 2
+2023/03/08 10:41:21 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:41:35 [INFO]: No data found.
+2023/03/08 10:41:35 [INFO]: Total acquisitions = 16/100.0
+2023/03/08 10:41:35 [INFO]: Successful acquisitions = 2
+2023/03/08 10:41:35 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:41:49 [INFO]: No data found.
+2023/03/08 10:41:49 [INFO]: Total acquisitions = 17/100.0
+2023/03/08 10:41:49 [INFO]: Successful acquisitions = 2
+2023/03/08 10:41:49 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:42:03 [INFO]: No data found.
+2023/03/08 10:42:03 [INFO]: Total acquisitions = 18/100.0
+2023/03/08 10:42:03 [INFO]: Successful acquisitions = 2
+2023/03/08 10:42:03 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:42:11 [INFO]: Trapping successful at iteration num: 6
+2023/03/08 10:42:11 [INFO]: New exposure time set to 10.0 s.
+2023/03/08 10:42:23 [INFO]: Adding spectrum...
+2023/03/08 10:42:23 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_THF_LOADED\measurement.csv.
+2023/03/08 10:42:23 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_THF_LOADED\measurement.csv.
+2023/03/08 10:42:23 [INFO]: Plots updated with new data.
+2023/03/08 10:42:23 [INFO]: Spectrum saved!
+2023/03/08 10:42:23 [INFO]: Data added!
+2023/03/08 10:42:23 [INFO]: Total acquisitions = 19/100.0
+2023/03/08 10:42:23 [INFO]: Successful acquisitions = 3
+2023/03/08 10:42:23 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:42:38 [INFO]: No data found.
+2023/03/08 10:42:38 [INFO]: Total acquisitions = 20/100.0
+2023/03/08 10:42:38 [INFO]: Successful acquisitions = 3
+2023/03/08 10:42:38 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:42:52 [INFO]: No data found.
+2023/03/08 10:42:52 [INFO]: Total acquisitions = 21/100.0
+2023/03/08 10:42:52 [INFO]: Successful acquisitions = 3
+2023/03/08 10:42:52 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:43:06 [INFO]: No data found.
+2023/03/08 10:43:06 [INFO]: Total acquisitions = 22/100.0
+2023/03/08 10:43:06 [INFO]: Successful acquisitions = 3
+2023/03/08 10:43:06 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:43:20 [INFO]: No data found.
+2023/03/08 10:43:20 [INFO]: Total acquisitions = 23/100.0
+2023/03/08 10:43:20 [INFO]: Successful acquisitions = 3
+2023/03/08 10:43:20 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:43:34 [INFO]: No data found.
+2023/03/08 10:43:34 [INFO]: Total acquisitions = 24/100.0
+2023/03/08 10:43:34 [INFO]: Successful acquisitions = 3
+2023/03/08 10:43:34 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:43:48 [INFO]: No data found.
+2023/03/08 10:43:48 [INFO]: Total acquisitions = 25/100.0
+2023/03/08 10:43:48 [INFO]: Successful acquisitions = 3
+2023/03/08 10:43:48 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:44:02 [INFO]: No data found.
+2023/03/08 10:44:02 [INFO]: Total acquisitions = 26/100.0
+2023/03/08 10:44:02 [INFO]: Successful acquisitions = 3
+2023/03/08 10:44:02 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:44:16 [INFO]: No data found.
+2023/03/08 10:44:16 [INFO]: Total acquisitions = 27/100.0
+2023/03/08 10:44:16 [INFO]: Successful acquisitions = 3
+2023/03/08 10:44:16 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:44:28 [INFO]: Trapping successful at iteration num: 9
+2023/03/08 10:44:28 [INFO]: New exposure time set to 10.0 s.
+2023/03/08 10:44:40 [INFO]: Adding spectrum...
+2023/03/08 10:44:40 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_THF_LOADED\measurement.csv.
+2023/03/08 10:44:40 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_THF_LOADED\measurement.csv.
+2023/03/08 10:44:40 [INFO]: Plots updated with new data.
+2023/03/08 10:44:40 [INFO]: Spectrum saved!
+2023/03/08 10:44:40 [INFO]: Data added!
+2023/03/08 10:44:40 [INFO]: Total acquisitions = 28/100.0
+2023/03/08 10:44:40 [INFO]: Successful acquisitions = 4
+2023/03/08 10:44:40 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:44:55 [INFO]: No data found.
+2023/03/08 10:44:55 [INFO]: Total acquisitions = 29/100.0
+2023/03/08 10:44:55 [INFO]: Successful acquisitions = 4
+2023/03/08 10:44:55 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:45:09 [INFO]: No data found.
+2023/03/08 10:45:09 [INFO]: Total acquisitions = 30/100.0
+2023/03/08 10:45:09 [INFO]: Successful acquisitions = 4
+2023/03/08 10:45:09 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:45:23 [INFO]: No data found.
+2023/03/08 10:45:23 [INFO]: Total acquisitions = 31/100.0
+2023/03/08 10:45:23 [INFO]: Successful acquisitions = 4
+2023/03/08 10:45:23 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:45:37 [INFO]: No data found.
+2023/03/08 10:45:37 [INFO]: Total acquisitions = 32/100.0
+2023/03/08 10:45:37 [INFO]: Successful acquisitions = 4
+2023/03/08 10:45:37 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:45:51 [INFO]: No data found.
+2023/03/08 10:45:51 [INFO]: Total acquisitions = 33/100.0
+2023/03/08 10:45:51 [INFO]: Successful acquisitions = 4
+2023/03/08 10:45:51 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:46:05 [INFO]: No data found.
+2023/03/08 10:46:05 [INFO]: Total acquisitions = 34/100.0
+2023/03/08 10:46:05 [INFO]: Successful acquisitions = 4
+2023/03/08 10:46:05 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:46:19 [INFO]: No data found.
+2023/03/08 10:46:19 [INFO]: Total acquisitions = 35/100.0
+2023/03/08 10:46:19 [INFO]: Successful acquisitions = 4
+2023/03/08 10:46:19 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:46:33 [INFO]: No data found.
+2023/03/08 10:46:33 [INFO]: Total acquisitions = 36/100.0
+2023/03/08 10:46:33 [INFO]: Successful acquisitions = 4
+2023/03/08 10:46:33 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 10:46:39 [INFO]: Aborting Trapping...
+2023/03/08 10:46:47 [INFO]: Trapping sequence aborted.

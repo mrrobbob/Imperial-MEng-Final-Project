@@ -1,0 +1,36 @@
+2023/03/08 13:10:42 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 13:10:58 [INFO]: No data found.
+2023/03/08 13:10:58 [INFO]: Total acquisitions = 1/100.0
+2023/03/08 13:10:58 [INFO]: Successful acquisitions = 0
+2023/03/08 13:10:58 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 13:11:12 [INFO]: No data found.
+2023/03/08 13:11:12 [INFO]: Total acquisitions = 2/100.0
+2023/03/08 13:11:12 [INFO]: Successful acquisitions = 0
+2023/03/08 13:11:12 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 13:11:19 [INFO]: Trapping successful at iteration num: 6
+2023/03/08 13:11:19 [INFO]: New exposure time set to 10.0 s.
+2023/03/08 13:11:32 [INFO]: Adding spectrum...
+2023/03/08 13:11:32 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_DMSO_ONETOTWENTY_1\measurement.csv.
+2023/03/08 13:11:32 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_DMSO_ONETOTWENTY_1\measurement.csv.
+2023/03/08 13:11:32 [INFO]: Plots updated with new data.
+2023/03/08 13:11:32 [INFO]: Spectrum saved!
+2023/03/08 13:11:32 [INFO]: Data added!
+2023/03/08 13:11:32 [INFO]: Total acquisitions = 3/100.0
+2023/03/08 13:11:32 [INFO]: Successful acquisitions = 1
+2023/03/08 13:11:32 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 13:11:47 [INFO]: No data found.
+2023/03/08 13:11:47 [INFO]: Total acquisitions = 4/100.0
+2023/03/08 13:11:47 [INFO]: Successful acquisitions = 1
+2023/03/08 13:11:47 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 13:12:01 [INFO]: No data found.
+2023/03/08 13:12:01 [INFO]: Total acquisitions = 5/100.0
+2023/03/08 13:12:01 [INFO]: Successful acquisitions = 1
+2023/03/08 13:12:01 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 13:12:15 [INFO]: No data found.
+2023/03/08 13:12:15 [INFO]: Total acquisitions = 6/100.0
+2023/03/08 13:12:15 [INFO]: Successful acquisitions = 1
+2023/03/08 13:12:15 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 13:12:17 [INFO]: Aborting Trapping...
+2023/03/08 13:12:26 [INFO]: Trapping successful at iteration num: 9
+2023/03/08 13:12:26 [INFO]: New exposure time set to 10.0 s.
+2023/03/08 13:12:39 [INFO]: Trapping sequence aborted.

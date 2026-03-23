@@ -1,0 +1,42 @@
+2023/03/08 12:55:34 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 12:55:35 [INFO]: Trapping successful at iteration num: 1
+2023/03/08 12:55:35 [INFO]: New exposure time set to 10.0 s.
+2023/03/08 12:55:48 [INFO]: Adding spectrum...
+2023/03/08 12:55:48 [INFO]: Editing data file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_DMSO_ONETOFIVE_1\measurement.csv.
+2023/03/08 12:55:48 [INFO]: Appending data to file C:\Users\sparta-alpha\SPARTA\Carl\2023-03-08\test_PLGA_DMSO_ONETOFIVE_1\measurement.csv.
+2023/03/08 12:55:48 [INFO]: Plots updated with new data.
+2023/03/08 12:55:48 [INFO]: Spectrum saved!
+2023/03/08 12:55:48 [INFO]: Data added!
+2023/03/08 12:55:48 [INFO]: Total acquisitions = 1/100.0
+2023/03/08 12:55:48 [INFO]: Successful acquisitions = 1
+2023/03/08 12:55:48 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 12:56:03 [INFO]: No data found.
+2023/03/08 12:56:03 [INFO]: Total acquisitions = 2/100.0
+2023/03/08 12:56:03 [INFO]: Successful acquisitions = 1
+2023/03/08 12:56:03 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 12:56:17 [INFO]: No data found.
+2023/03/08 12:56:17 [INFO]: Total acquisitions = 3/100.0
+2023/03/08 12:56:17 [INFO]: Successful acquisitions = 1
+2023/03/08 12:56:17 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 12:56:31 [INFO]: No data found.
+2023/03/08 12:56:31 [INFO]: Total acquisitions = 4/100.0
+2023/03/08 12:56:31 [INFO]: Successful acquisitions = 1
+2023/03/08 12:56:31 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 12:56:45 [INFO]: No data found.
+2023/03/08 12:56:45 [INFO]: Total acquisitions = 5/100.0
+2023/03/08 12:56:45 [INFO]: Successful acquisitions = 1
+2023/03/08 12:56:45 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 12:56:59 [INFO]: No data found.
+2023/03/08 12:56:59 [INFO]: Total acquisitions = 6/100.0
+2023/03/08 12:56:59 [INFO]: Successful acquisitions = 1
+2023/03/08 12:56:59 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 12:57:13 [INFO]: No data found.
+2023/03/08 12:57:13 [INFO]: Total acquisitions = 7/100.0
+2023/03/08 12:57:13 [INFO]: Successful acquisitions = 1
+2023/03/08 12:57:13 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 12:57:27 [INFO]: No data found.
+2023/03/08 12:57:27 [INFO]: Total acquisitions = 8/100.0
+2023/03/08 12:57:27 [INFO]: Successful acquisitions = 1
+2023/03/08 12:57:27 [INFO]: New exposure time set to 1.0 s.
+2023/03/08 12:57:32 [INFO]: Aborting Trapping...
+2023/03/08 12:57:41 [INFO]: Trapping sequence aborted.
